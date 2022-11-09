@@ -18,9 +18,20 @@ Here are some ideas to get you started:
 </p> -->
 
 <a href="https://yoririn-csv-heatmapper-streamlit-streamlit-app-pkxxbp.streamlitapp.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/Yolyne/Csv-Heatmapper/blob/main/imgs/icon.png?raw=true" alt="CsvHeatmapper (Streamlit web app)"/ width="100">
+  <div>CsvHeatmapper (Streamlit web app)</div>
+</a>
+<a href="https://github.com/Yolyne/Csv-Heatmapper" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/Yolyne/Csv-Heatmapper/blob/main/imgs/icon.png?raw=true" alt="CsvHeatmapper"/ width="100">
   <div>Csv Heatmapper</div>
 </a>
+<ul>
+ <li>
+  <a href="https://github.com/Yolyne/Csv-Heatmapper/releases/latest" target="_blank" rel="noreferrer"> 
+    <div>Download Installer of Csv Heatmapper (Latest)</div>
+  </a>
+ </li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
