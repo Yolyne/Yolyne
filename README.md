@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <p align="left">
 </p> -->
 
-<a href="https://yoririn-csv-heatmapper-streamlit-streamlit-app-pkxxbp.streamlitapp.com/" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://yoririn-csv-heatmapper-streamlit-streamlit-app-pkxxbp.streamlitapp.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/Yolyne/Csv-Heatmapper/blob/main/imgs/icon.png?raw=true" alt="CsvHeatmapper (Streamlit web app)"/ width="100">
   <div>CsvHeatmapper (Streamlit web app)</div>
-</a>
+</a> -->
 <a href="https://github.com/Yolyne/Csv-Heatmapper" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/Yolyne/Csv-Heatmapper/blob/main/imgs/icon.png?raw=true" alt="CsvHeatmapper"/ width="100">
   <div>Csv Heatmapper</div>
